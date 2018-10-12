@@ -1,0 +1,11 @@
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.deps.json
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.json
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.dev.json
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.dll
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.pdb
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csprojAssemblyReference.cache
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfo.cs
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.dll
+C:\Users\konrad.korf\Downloads\aspdotnet-core-fundamentals\05\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.pdb
